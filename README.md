@@ -16,9 +16,13 @@
   - Calculates annual Sharpe Ratio
 
 ### 📊Sample Output
-#### Portfolio Value
+#### ✔️Computing returns, volatility, and Sharpe Ratio
+##### Portfolio value at the end of the year will be $12581.25
+##### Annual Sharpe Ratio: 1.47
+##### Annual Returns: 25.81%
+#### ✔️Graphing Portfolio Value
 ![image](https://github.com/user-attachments/assets/4b03fb7d-b794-40d0-8d43-444b0bed28ab)
-#### Moving Averages compared to stock price
+#### ✔️Comparing Moving averages to Stock price using a graph
 ![image](https://github.com/user-attachments/assets/91f72c99-d700-4a2e-8438-1ad8377dc631)
 
 
